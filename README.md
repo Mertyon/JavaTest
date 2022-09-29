@@ -1,2 +1,5 @@
 # Java_2D
-Little game about myself
+
+How to find code:
+
+Hello world -> src -> 
